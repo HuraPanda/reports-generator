@@ -39,7 +39,7 @@ env
 # Kaiten API конфигурация
 KAITEN_API_TOKEN=your_api_token_here
 KAITEN_MEMBER_ID=your_member_id_here
-KAITEN_SPRINT_ID=your_sprint_id_here
+KAITEN_API_URL=your_api_url
 
 # Опциональные параметры
 KAITEN_API_URL=https://btlz.kaiten.ru/api/latest
@@ -103,8 +103,3 @@ text
 
 👨‍💻 Автор
 Arthur Mamaev (Backend-developer from 10X)
-
-<video width="640" height="480" controls>
-  <source src="for_readme/2025-12-23 17-00-36.mp4" type="video/mp4">
-  Ваш браузер не поддерживает тег video.
-</video>
