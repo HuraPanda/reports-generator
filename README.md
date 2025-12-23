@@ -103,3 +103,8 @@ text
 
 👨‍💻 Автор
 Arthur Mamaev (Backend-developer from 10X)
+
+<video width="640" height="480" controls>
+  <source src="for_readme/2025-12-23 17-00-36.mp4" type="video/mp4">
+  Ваш браузер не поддерживает тег video.
+</video>
